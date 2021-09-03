@@ -1,5 +1,5 @@
 #Edit this file, stage it, commit it
 
-myName = "Katie"
-myFavNum = 7
-print("My name is " + myName + " and my favorite number is " + str(myFavNum))
+myName = "Kiana and Brigette"
+myFavNum = 25
+print("Our names are " + myName + " and our favorite number is " + str(myFavNum))
